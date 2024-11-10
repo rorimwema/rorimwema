@@ -53,7 +53,7 @@
         height="40"
     />
     <img
-        src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg"
         alt="rails"
         width="40"
         height="40"

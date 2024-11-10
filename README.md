@@ -9,7 +9,7 @@
 
 
 
-- 👋 Hi, I’m @rorimwema 
+
 - 👀 I’m interested in building scalable, resilient software architectures and exploring the latest in distributed systems. 
 - 🌱 I’mbinterested in building scalable, resilient software architectures and exploring the latest in distributed systems. 
 - 💞️ I’m looking to collaborate on projects involving system architecture, cloud-native technologies, or any codebase aiming for high stability and performance. 

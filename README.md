@@ -2,10 +2,7 @@
 <h3 align="center">Polygot Prigrammer, Blogger</h3>
 
 <p align="left">
-    <img
-        src="![](https://hit.yhype.me/github/profile?user_id=168989947)"
-        alt="rorimwema"
-    />
+    
 </p>
 
 

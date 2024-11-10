@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clinton Mwema</h1>
-<h3 align="center">Polygot Prigrammer, Blogger</h3>
+<h3 align="center">Polygot Programmer, Blogger</h3>
 
 <p align="left">
     
@@ -21,7 +21,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-<p align="left">
+<p align="center">
     <img
         src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
         alt="docker"
@@ -34,12 +34,7 @@
         width="40"
         height="40"
     />
-    <img
-        src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
-        alt="jenkins"
-        width="40"
-        height="40"
-    />
+
     <img
         src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
         alt="kubernetes"

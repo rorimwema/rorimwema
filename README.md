@@ -16,7 +16,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center">
+<p align="left">
     <img
         src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
         alt="docker"

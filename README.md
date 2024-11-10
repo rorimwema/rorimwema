@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Clinton Mwema</h1>
 <h3 align="center">Polygot Programmer, Blogger</h3>
 
-<p align="left">
-    
-</p>
-
-
 
 
 

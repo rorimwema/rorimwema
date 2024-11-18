@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clinton Mwema</h1>
-<h3 align="center">Polygot Programmer</h3>
+<h3 align="center">Polyglot Programmer</h3>
 
 
 

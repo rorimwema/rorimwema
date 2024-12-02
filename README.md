@@ -24,22 +24,7 @@
             height="40"
         />
     </div>
-    <div align="center">
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
-            alt="go"
-            width="40"
-            height="40"
-        />
-    </div>
-    <div align="center">
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original-wordmark.svg"
-            alt="elixir"
-            width="40"
-            height="40"
-        />
-    </div>
+
 </div>
  
 

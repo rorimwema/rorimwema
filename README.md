@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Clinton Mwema</h1>
-<h3 align="center">Polyglot Programmer</h3>
+<h3 align="center">Programmer</h3>
 
 
 
 
 
-- 👀 I’m interested in building scalable, resilient software architectures and exploring the latest in distributed systems. 
-- 🌱 I’m interested in building scalable, resilient software architectures and exploring the latest in distributed systems. 
+- 👀 I’m interested in building and designing scalable, resilient software & architectures and exploring distributed systems. 
 - 💞️ I’m looking to collaborate on projects involving system architecture, cloud-native technologies, or any codebase aiming for high stability and performance. 
 - 📫 How to reach me: clintonrorim@gmail.com
 - ⚡ Fun fact: I love debugging & Coffee ☕️ & Whales🐳

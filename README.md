@@ -22,7 +22,7 @@ When I'm not coding, you’ll find me debugging with a ☕ or admiring whales �
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
-
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
 **Systems**:  
 Linux Kernel | RTOS | ARM64 | RISC-V | V4L2 | RDMA
 

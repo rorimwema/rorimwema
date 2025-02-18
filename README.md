@@ -1,28 +1,19 @@
-<h1 align="center">Hi 👋, I'm Clinton Mwema</h1>
+<h1 align="center">Hi 👋, I'm Clinton</h1>
 <h3 align="center">Programmer</h3>
 
 
 
+When I’m not coding, you’ll probably find me debugging with a cup of coffee in hand ☕️ or admiring whales 🐳—two of my favorite things! I also enjoy sharing my experiences and insights through articles on dev.to/rorimwema .
 
-
-- 👀 I’m interested in building and designing scalable, resilient software & architectures and exploring distributed systems. 
-- 💞️ I’m looking to collaborate on projects involving system architecture, cloud-native technologies, or any codebase aiming for high stability and performance. 
-- 📫 How to reach me: clintonrorim@gmail.com
-- ⚡ Fun fact: I love debugging & Coffee ☕️ & Whales🐳
-- 📝 I occassionally write articles on [dev.to/rorimwema](https://dev.to/rorimwema) 
+If you’d like to connect or chat about potential projects, feel free to reach out at clintonrorim@gmail.com . Let’s build something amazing together!
 
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
-<div style="display: flex; justify-content: center; gap: 10px">
-    <div align="center">
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg"
-            alt="rails"
-            width="40"
-            height="40"
-        />
-    </div>
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=generalsuslik&theme=tokyonight)-->
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorimwema&hide=Rich%20Text%20Format,TeX,Makefile,Cmake,QML,HTML&layout=compact&langs_count=8&locale=en&show_icons=true&theme=tokyonight" alt="rorimwema" /></p>
+<!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=generalsuslik&theme=tokyonight" alt="generalsuslik" /></p>-->
+
 
 </div>
  

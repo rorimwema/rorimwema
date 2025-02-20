@@ -20,9 +20,11 @@ When I'm not coding, you’ll find me debugging with a ☕ or admiring whales �
 ### 🛠️ Tech Stack
 **Languages**:  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+[![Erlang](https://img.shields.io/badge/Erlang-A90533?logo=erlang&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
-[![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)](#)
+[![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white)](#)
+
 **Systems**:  
 Linux Kernel | RTOS | ARM64 | RISC-V | V4L2 | RDMA
 
@@ -44,8 +46,8 @@ GDB | JTAG | QEMU | Docker | Kubernetes
 
 ### 📝 Latest Blog Posts
 <!-- Dev.to RSS Feed -->
-- [Debugging Kernel Panics 101](https://dev.to/rorimwema/debugging-kernel-panics-101-1234)
-- [Optimizing RDMA Workflows](https://dev.to/rorimwema/optimizing-rdma-5678)
+- [From JS to Hardware]([https://dev.to/rorimwema/debugging-kernel-panics-101-1234](https://dev.to/mebyte/my-programming-journey-from-javascript-to-hardware-4gdg))
+
 
 ---
 

@@ -38,7 +38,6 @@ GDB | JTAG | QEMU | Docker | Kubernetes
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rorimwema&show_icons=true&theme=dark&hide=stars,issues)](https://github.com/rorimwema)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rorimwema&layout=compact&theme=dark&hide=Jupyter%20Notebook)](https://github.com/rorimwema)
 
-![GitHub Snake](https://github.com/rorimwema/rorimwema/blob/output/github-contribution-grid-snake.svg)
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=rorimwema&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 

@@ -29,7 +29,7 @@ When I'm not coding, you’ll find me debugging with a ☕ or admiring whales �
 Linux Kernel | RTOS | ARM64 | RISC-V | V4L2 | RDMA
 
 **Tools**:  
-GDB | JTAG | QEMU | Docker | Kubernetes
+GDB | JTAG | QEMU | Docker | Kubernetes | Vim
 
 ---
 

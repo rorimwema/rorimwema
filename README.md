@@ -1,4 +1,4 @@
-# Hi there, I'm Clinton Rorimwera! 👋
+
 
 [![Email](https://img.shields.io/badge/Email-clintonrorim%40gmail.com-blue?style=flat&logo=gmail)](mailto:clintonrorim@gmail.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Blog-black?style=flat&logo=dev.to)](https://dev.to/rorimwema)
@@ -7,7 +7,7 @@
 ---
 
 ### 💻 About Me
-I'm a software engineer passionate about:
+I'm a programmer passionate about:
 - Designing **scalable distributed systems** 🚀
 - **Cloud-native architectures** ☁️
 - **Performance optimization** ⚡

@@ -1,7 +1,7 @@
-# 🚀 Hey, I’m [Your Name]  
+# 🚀 Hey, I’m Clint  
 ### *Distributed Systems Engineer | BEAM Enthusiast | Performance Tamer*  
 
-Hi there! 👋 I build **scalable, fault-tolerant systems** that (mostly) don’t panic under pressure.  
+I build **scalable, fault-tolerant systems** that (mostly) don’t panic under pressure.  
 When I’m not tuning BEAM VMs or optimizing hot code paths, I’m probably debating whether `Actor Model` > `your favorite concurrency pattern`.  
 
 ### 🛠️ **Tech Playground**  

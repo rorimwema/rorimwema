@@ -1,9 +1,4 @@
-# Hey  
-### *Distributed Systems Engineer | SRE*  
+### *Programmer | Systems Architecture | SRE* 🛠️
 
-I build **scalable, fault-tolerant systems** that (mostly) don’t panic under pressure.  
-
-### 🛠️ **Tech Playground**  
-```erlang  
-{languages, [Haskell, go, Rust, JS/TS]},  
-{status, <<"open_to_collaborate">>}.  
+🌐 Building scalable, resilient systems | Passionate about uptime & performance  
+📫 Connect: clintonrorim@gmail.com | [[Twitter/X handle]](https://x.com/byte_em)

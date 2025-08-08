@@ -1,4 +1,20 @@
-### *Programmer | Systems Architecture | SRE* 🛠️
+### Programmer | Systems Architect | SRE
 
-Building scalable, resilient systems | Passionate about uptime & performance  
-Lets Connect: clintonrorim@gmail.com | https://x.com/byte_em
+Designing and building **scalable, resilient systems** that thrive under load.  
+Passionate about **uptime, performance, and automation**.
+
+**Currently working on**  
+- **Raikō** – Zero-ETL Data Mesh Router  
+- **Kairo** – Deterministic-Replay Edge Simulator  
+- **Arachne** – Distributed Realtime Data Fabric  
+- **Valkyra** – Self-Healing Kubernetes Operator  
+- **Augur** – ML-Powered SRE Toolkit  
+
+**Let’s Connect:**  
+📧 [clintonrorim@gmail.com](mailto:clintonrorim@gmail.com)  
+
+
+---
+
+💡 *"You know you have a distributed system when the crash of a computer you’ve never heard of stops you from getting any work done." — Leslie Lamport*
+

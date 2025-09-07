@@ -4,11 +4,8 @@ Designing and building **scalable, resilient systems** that thrive under load.
 Passionate about **uptime, performance, and automation**.
 
 **Currently working on**  
-- **Raikō** – Zero-ETL Data Mesh Router  
-- **Kairo** – Deterministic-Replay Edge Simulator  
-- **Arachne** – Distributed Realtime Data Fabric  
-- **Valkyra** – Self-Healing Kubernetes Operator  
-- **Augur** – ML-Powered SRE Toolkit  
+- **vivre** – End-to-end housing platform in Kenya, connecting landlords, tenants, guests, developers, and banks in one seamless ecosystem
+- **Arachne** – Distributed Realtime Data Fabric 
 
 **Let’s Connect:**  
 📧 [clintonrorim@gmail.com](mailto:clintonrorim@gmail.com)  

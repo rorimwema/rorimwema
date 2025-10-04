@@ -9,5 +9,5 @@ Passionate about **uptime, performance, and automation**.
 
 ---
 
-💡 *"" — Leslie Lamport*
+💡
 

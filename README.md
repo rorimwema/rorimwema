@@ -1,4 +1,4 @@
-### Programmer | Systems Architect | SRE
+### Programmer | Systems Architect
 
 Designing and building **scalable, resilient systems** that thrive under load.  
 Passionate about **uptime, performance, and automation**.

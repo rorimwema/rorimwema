@@ -1,6 +1,6 @@
 # Hi, I'm Rori 👋
 
-**Programming Languages & Compilers** | **Unix** Hacker | **AI Integration** Engineer | Learning in public
+**Programming Languages & Compilers** | **Unix** Hacker | **AI Infra** | Learning in public
 
 ---
 

@@ -1,6 +1,6 @@
 # Hi, I'm Rori 👋
 
-**Programming Languages & Compilers** student | **Unix** Hacker | Learning in public
+**Programming Languages & Compilers** | **Unix** Hacker | **AI Integration** Engineer | Learning in public
 
 ---
 
@@ -10,15 +10,26 @@ I'm deeply fascinated by how programming languages work and how compilers bridge
 
 - 🦀 Studying PL & Compilers
 - 🐧 Unix systems and shell scripting
+- 🤖 Building efficient, scalable AI integrations
 - 📚 Sharing what I learn along the way
+
+---
+
+### Currently Exploring
+
+- AI/ML system design and integration patterns
+- Scaling AI workloads efficiently
+- Compiler optimizations for AI workloads
 
 ---
 
 ### Tech Stack
 
-**Languages:** Rust, C, Haskell, Common Lisp, Ruby, Go
+**Languages:** Rust, C, Haskell, Common Lisp, Ruby, Go, Python
 
-**Tools:** Neovim, Emacs, Git, Linux
+**AI/ML:** LLMs, Vector Databases, ML Infrastructure
+
+**Tools:** Neovim, Emacs, Git, Linux, Docker
 
 ---
 

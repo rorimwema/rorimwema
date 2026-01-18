@@ -1,6 +1,6 @@
 # Hi, I'm Rori 👋
 
-**Programming Languages & Compilers** | **Unix** Hacker | **AI Infra** | Learning in public
+**Programming Languages & Compilers** | **Unix** Hacker | **AI Infra** | Learning in public | ML Languages
 
 ---
 
@@ -25,7 +25,7 @@ I'm deeply fascinated by how programming languages work and how compilers bridge
 
 ### Tech Stack
 
-**Languages:** Rust, C, Haskell, Common Lisp, Ruby, Go, Python
+**Languages:** Rust, C, Haskell, Ocaml, Ruby, Go, Python
 
 **AI/ML:** LLMs, Vector Databases, ML Infrastructure
 
